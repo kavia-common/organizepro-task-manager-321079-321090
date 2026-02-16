@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/organizepro-task-manager-321079-321090/task_management_frontend"
+}
